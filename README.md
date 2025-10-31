@@ -1,2 +1,0 @@
-# proxe
-healthy proxy lookup
